@@ -21,6 +21,11 @@ The goal of this project is to:
 - **Power Query**: ETL (Extract, Transform, Load) for Power BI integration and new measures calculation.
 - **Power BI 📊**: Interactive dashboards for data visualization and reporting.
 
+
+<div style="text-align: center;">
+    <img src="uber power bi.jpg" alt="alt text">
+</div>
+
 👉 **[Explore the Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiYzA5ODVmZmItYTkxMi00NmEzLTgwNmItZjhhMGIwOGNmY2IzIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9&pageName=8d6b3ce8e13d3a7f99b3)**
 
 ---
