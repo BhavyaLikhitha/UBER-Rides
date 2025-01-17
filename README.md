@@ -26,7 +26,7 @@ The goal of this project is to:
     <img src="uber power bi.jpg" alt="alt text">
 </div>
 
-👉 **[Explore the Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiYzA5ODVmZmItYTkxMi00NmEzLTgwNmItZjhhMGIwOGNmY2IzIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9&pageName=8d6b3ce8e13d3a7f99b3)**
+👉 **[Explore the Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiMzMzOWMwNTgtYTJlNC00YzU2LTk1NjctOTZkMzM4MWI0YjNkIiwidCI6ImRhMDRjZDQxLTk4ZGUtNDU4YS05Zjg5LTUzNWFjODI0MWJmOSIsImMiOjJ9&pageName=8d6b3ce8e13d3a7f99b3)**
 
 ---
 
